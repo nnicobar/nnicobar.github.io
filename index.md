@@ -13,6 +13,7 @@ img {
   margin-right: auto;
 }
 </style>
+</head>
  <img src="images/Trial.jpg" "width:40%"> 
 
 
