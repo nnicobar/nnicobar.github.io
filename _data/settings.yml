@@ -2,9 +2,9 @@
 # General Site Settings
 
 menu:
+- {name: 'Projects',    url: 'proj1'}
+- {name: 'Contact',  url: 'contact'}
 - {name: 'CV',     url: "../files/BGK.pdf"}
-- {name: 'LinkedIn',    url: 'about'}
-- {name: 'Instagram',  url: 'contact'}
 
 #-------------------------------
 # Projects Section
