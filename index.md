@@ -2,7 +2,7 @@
 layout: post
 title: Hi! My name is Nabeel Ahmed
 ---
-<iframe width="560" height="315" src="https://github.com/nnicobar/nnicobar.github.io/images/Trial.jpg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="images/Trial.jpg" frameborder="0" allowfullscreen></iframe>
 
 As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the [Markdown syntax](https://guides.github.com/features/mastering-markdown/). Examples of these text formatting features can be seen below. You can find this post in the `_posts` directory.
 
