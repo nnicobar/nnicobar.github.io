@@ -4,7 +4,7 @@ title: Hi! My name is Nabeel Ahmed and this is my webpage
 ---
 As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the [Markdown syntax](https://guides.github.com/features/mastering-markdown/). Examples of these text formatting features can be seen below. You can find this post in the `_posts` directory.
 
- <img src="images/Trial.jpg" width="50" height="100" class = "center"> 
+ <img src="images/Trial.jpg" width="500" height="1000" class = "center"> 
 
 ## Basic Formatting
 
