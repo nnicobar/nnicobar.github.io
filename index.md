@@ -1,5 +1,5 @@
 ---
-layout: home
-title: Home
+layout: post
+title: My Webpage
 ---
 
