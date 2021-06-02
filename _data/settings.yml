@@ -2,7 +2,7 @@
 # General Site Settings
 
 menu:
-#- {name: 'Blog',     url: 'blog'}
+- {name: 'CV',     url: "../files/BGK.pdf"}
 #- {name: 'About',    url: 'about'}
 #- {name: 'Contact',  url: 'contact'}
 
