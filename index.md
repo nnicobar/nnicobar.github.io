@@ -14,7 +14,8 @@ img {
 }
 </style>
 </head>
- <img src="images/Trial.jpg" "width:40%"> 
+
+ <img src="images/Trial.jpg" style = "width:40%"> 
 
 
 ## Basic Formatting
