@@ -1,6 +1,5 @@
 ---
 layout: post
-title: "Text Formatting Examples"
 ---
 
 # Markdown Support
