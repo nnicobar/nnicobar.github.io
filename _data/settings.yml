@@ -3,8 +3,8 @@
 
 menu:
 - {name: 'CV',     url: "../files/BGK.pdf"}
-#- {name: 'About',    url: 'about'}
-#- {name: 'Contact',  url: 'contact'}
+- {name: 'LinkedIn',    url: 'about'}
+- {name: 'Instagram',  url: 'contact'}
 
 #-------------------------------
 # Projects Section
