@@ -4,7 +4,7 @@
 menu:
 - {name: 'Projects',    url: 'projekts'}
 - {name: 'Contact',  url: 'contact'}
-- {name: 'CV',     url: "../files/BGK.pdf"}
+- {name: 'CV',     url: "../files/404.pdf"}
 
 #-------------------------------
 # Projects Section
