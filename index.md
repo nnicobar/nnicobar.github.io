@@ -15,7 +15,7 @@ img {
 
 
 
-As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the [Markdown syntax](https://guides.github.com/features/mastering-markdown/). Examples of these text formatting features can be seen below. You can find this post in the `_posts` directory.
+THIS PAGE IS CURRENTLY UNDER CONSTRUCTION. WILL BE READY BEFORE THE NEXT PRESIDENTIAL ELECTION, WHEN I ANNOUNCE MY BID FOR PRESIDENCY. As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the [Markdown syntax](https://guides.github.com/features/mastering-markdown/). Examples of these text formatting features can be seen below. You can find this post in the `_posts` directory.
 
 
 
