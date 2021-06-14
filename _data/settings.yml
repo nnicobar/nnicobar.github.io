@@ -20,7 +20,7 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
+#- {icon: 'instagram', link: 'https://instagram.com/paululele'}
 - {icon: 'github',    link: 'https://github.com/lenpaul'}
 - {icon: 'linkedin',  link: 'https://linkedin.com/in/lenpaul'}
 
