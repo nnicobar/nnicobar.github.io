@@ -3,7 +3,7 @@
 
 menu:
 - {name: 'Projects',    url: 'projekts'}
-- {name: 'Contact',  url: 'contact'}
+#- {name: 'Contact',  url: 'contact'}
 - {name: 'CV',     url: "../files/404.pdf"}
 
 #-------------------------------
@@ -21,8 +21,8 @@ projects:
 
 social:
 #- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'github',    link: 'https://github.com/lenpaul'}
-- {icon: 'linkedin',  link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'github',    link: 'https://github.com/nnicobar'}
+- {icon: 'linkedin',  link: 'https://linkedin.com/in/nnicobar'}
 
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
