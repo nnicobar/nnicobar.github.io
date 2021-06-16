@@ -13,13 +13,9 @@ img {
 </style>
 </head>
 
+I am currently a Third-Year Undergraduate at the Department of Physics at the Indian Institute of Technology Bombay. Feel free to hop around this webpage to find out about me and some of my projects.
 
-
-THIS PAGE IS CURRENTLY UNDER CONSTRUCTION. WILL BE READY BEFORE THE NEXT PRESIDENTIAL ELECTION, WHEN I ANNOUNCE MY BID FOR PRESIDENCY. 
-
-I am currently a Third-Year Undergraduate at the Department of Physics, IIT Bombay. Feel free to hop around this webpage to find out about me and some of my projects.
-
-<img src="images/Trial.jpg" style = "width:70%"> 
+<img src="images/DM1.JPG" style = "width:70%"> 
 
 ## About me
 Academecially, I have a keen interest in mathematical physics as well as pure mathematics. I am also fascinated by the history of science and scientists and love reading about the same in my spare time.
