@@ -13,7 +13,7 @@ img {
 </style>
 </head>
 
-I am currently a Third-Year Undergraduate at the Department of Physics at the Indian Institute of Technology Bombay. Feel free to hop around this webpage to find out about me and some of my projects.
+I am currently a third-year undergraduate at the Department of Physics at the Indian Institute of Technology, Bombay. Feel free to hop around this webpage to find out about me and some of my projects.
 
 <img src="images/DM1.JPG" style = "width:70%"> 
 
