@@ -30,6 +30,8 @@ For academic details like my grades and list of courses that I have taken at IIT
 
 Apart from academics, I enjoy anything and everything from music, writing, film, literature to design, architecture and travel. In particular, I am very passionate about dance and have trained in many styles since childhood. I am also a huge cinephile and love anything to do with cinema.
 
+Find out how you can contact me [here](contact).
+
 
 
 <!--- This is an HTML comment in Markdown 
