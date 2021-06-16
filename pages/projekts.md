@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: projects
 permalink: /projekts
 ---
 <head>
@@ -14,15 +14,18 @@ img {
 </style>
 </head>
 
-## PROJECTS
 
-* [One-dimensional Photonic Bound States in the Continuum]()
+* [One-dimensional Photonic Bound States in the Continuum](https://github.com/nnicobar/Photonic-Bound-States)
+  The pdf version of the notebook is [here](https://github.com/nnicobar/Photonic-Bound-States/blob/main/One%20dimensional%20photonic%20BICs.pdf)
+   
+* [Measurement of Underlying Event Characteristics in p-p Collisions](https://github.com/nnicobar/Underlying-Event-Characteristics) 
+  The pdf of the report is [here](https://github.com/nnicobar/Underlying-Event-Characteristics/blob/main/Measurement%20of%20underlying%20event%20characteristics.pdf)
 
-* [Measurement of Underlying Event Characteristics in p-p Collisions]()
+* [Phenomenology of Thermodynamics and Statistical Physics](https://github.com/nnicobar/Entropy)
+  The pdf of the report can be found [here](https://github.com/nnicobar/Entropy/blob/main/Entropy.pdf)
 
-* [Phenomenology of Thermodynamics and Statistical Physics]()
-
-* [Mathematical Modelling of Topologically Interesting Surfaces]()
+* [Mathematical Modelling of Topologically Interesting Surfaces](https://github.com/nnicobar/3D-Printing-ITSP)
+  Our project video is available [here](https://drive.google.com/file/d/18tWUQjRla1jF1eZMKc9u-qVCAzUP3E-Y/view?usp=sharing) 
 
 
 
