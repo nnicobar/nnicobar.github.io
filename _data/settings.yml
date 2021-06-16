@@ -3,7 +3,7 @@
 
 menu:
 - {name: 'Projects',    url: 'projekts'}
-#- {name: 'Contact',  url: 'contact'}
+- {name: 'Contact',  url: 'contact'}
 - {name: 'CV',     url: "../files/404.pdf"}
 
 #-------------------------------
