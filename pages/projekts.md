@@ -1,6 +1,6 @@
 ---
 layout: post
-title: projects
+title: Projects
 permalink: /projekts
 ---
 <head>
