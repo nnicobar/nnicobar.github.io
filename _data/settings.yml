@@ -2,7 +2,7 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects',    url: 'projekts'}
+- {name: 'Projects',    url: 'blog'}
 - {name: 'Contact',  url: 'contact'}
 - {name: 'CV',     url: "../files/404.pdf"}
 
