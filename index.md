@@ -15,16 +15,24 @@ img {
 
 
 
-THIS PAGE IS CURRENTLY UNDER CONSTRUCTION. WILL BE READY BEFORE THE NEXT PRESIDENTIAL ELECTION, WHEN I ANNOUNCE MY BID FOR PRESIDENCY. As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the [Markdown syntax](https://guides.github.com/features/mastering-markdown/). Examples of these text formatting features can be seen below. You can find this post in the `_posts` directory.
+THIS PAGE IS CURRENTLY UNDER CONSTRUCTION. WILL BE READY BEFORE THE NEXT PRESIDENTIAL ELECTION, WHEN I ANNOUNCE MY BID FOR PRESIDENCY. 
 
-
-
+I am currently a Third-Year Undergraduate at the Department of Physics, IIT Bombay. Feel free to hop around this webpage to find out about me and some of my projects.
 
 <img src="images/Trial.jpg" style = "width:70%"> 
 
+## About me
+Academecially, I have a keen interest in mathematical physics as well as pure mathematics. I am also fascinated by the history of science and scientists and love reading about the same in my spare time.
+
+A list of projects that I have undertaken as a student with professors at IITB is present in the Projects tab.
+
+For academic details like my grades and list of courses that I have taken at IITB please refer to my CV.
+
+Apart from academics, I enjoy anything and everything from music, writing, film, literature to design, architecture and travel. In particular, I am very passionate about dance and have trained in many styles since childhood. I am also a huge cinephile and love anything to do with cinema.
 
 
 
+<!--- This is an HTML comment in Markdown 
 ## Basic Formatting
 
 With Markdown, it is possible to emphasize words by making them *italicized*, using *astericks* or _underscores_, or making them **bold**, using **double astericks** or __double underscores__. Of course, you can combine those two formats, with both _**bold and italicized**_ text, using any combination of the above syntax. You can also add a strikethrough to text using a ~~double tilde~~.
@@ -168,3 +176,4 @@ More information on Markdown can be found at the following links:
 - [Markdown Basics](https://daringfireball.net/projects/markdown/basics)
 - [GitHub Flavoured Markdown Spec](https://github.github.com/gfm/)
 - [Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/#lists)
+-->
