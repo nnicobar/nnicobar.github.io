@@ -24,7 +24,7 @@ I am currently a Third-Year Undergraduate at the Department of Physics, IIT Bomb
 ## About me
 Academecially, I have a keen interest in mathematical physics as well as pure mathematics. I am also fascinated by the history of science and scientists and love reading about the same in my spare time.
 
-A list of projects that I have undertaken as a student with professors at IITB is present [here](blog).
+A list of projects that I have undertaken as a student with professors at IITB is present [here](projekts).
 
 For academic details like my grades and list of courses that I have taken at IITB please refer to my [CV](../files/404.pdf).
 
