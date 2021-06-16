@@ -6,4 +6,11 @@ permalink: /contact
 
 # Contact
 
-You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+I have two email IDs and I check them frequently:
+* nnicobar 'at' gmail.com
+* nabeel_ahmed 'at' iitb.ac.in
+
+(I have avoided writing @ to discourage bots and spiders)
+
+Additionally, you can find my Github and LinkedIn profiles below, which I check less frequently.
+
