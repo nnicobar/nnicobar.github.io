@@ -18,7 +18,7 @@ I am currently a third-year undergraduate at the Department of Physics at the In
 <img src="images/DM1.JPG" style = "width:70%"> 
 
 ## About me
-Academecially, I have a keen interest in mathematical physics as well as pure mathematics. I am also fascinated by the history of science and scientists and love reading about the same in my spare time.
+Academically, I have a keen interest in mathematical physics as well as pure mathematics. I am also fascinated by the history of science and scientists and love reading about the same in my spare time. Additionally, I am very interested in science communication and science education.
 
 A list of projects that I have undertaken as a student at IITB is present [here](projekts).
 
