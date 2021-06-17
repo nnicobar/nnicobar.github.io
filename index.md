@@ -20,7 +20,7 @@ I am currently a third-year undergraduate at the Department of Physics at the In
 ## About me
 Academically, I have a keen interest in mathematical physics as well as pure mathematics. I am also fascinated by the history of science and scientists and love reading about the same in my spare time. Additionally, I am very interested in science communication and science education.
 
-A list of projects that I have undertaken as a student at IITB is present [here](projekts).
+A list of projects that I have undertaken as a student at IIT Bombay is present [here](projekts).
 
 For academic details like my grades and list of courses that I have taken at IITB please refer to my [CV](../files/404.pdf).
 
