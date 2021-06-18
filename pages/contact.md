@@ -12,5 +12,6 @@ I have two email IDs and I check them frequently:
 
 (I have avoided writing @ to discourage bots and spiders)
 
-Additionally, you can find my Github and LinkedIn profiles below, which I check less frequently.
+Additionally, you can access my Github and LinkedIn profiles (which I check less frequently) using the buttons at the bottom of the page.
 
+I do not have a Facebook account or a Youtube Channel at the moment, so any account you find by my name is not me.
