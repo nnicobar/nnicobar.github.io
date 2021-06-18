@@ -23,6 +23,7 @@ social:
 #- {icon: 'instagram', link: 'https://instagram.com/paululele'}
 - {icon: 'github',    link: 'https://github.com/nnicobar'}
 - {icon: 'linkedin',  link: 'https://linkedin.com/in/nnicobar'}
+- {icon: 'youtube', link: 'https://www.youtube.com/channel/UCChzJ0--hUF7l2NnGAFNKTQ'}
 
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
