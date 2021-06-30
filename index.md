@@ -15,7 +15,9 @@ img {
 
 I am currently a third-year undergraduate at the Department of Physics at the Indian Institute of Technology Bombay. Feel free to hop around this webpage to find out about me and some of my projects.
 
-<img src="images/DM1.JPG" style = "width:70%"> 
+<!-- 
+<img src="images/DM1.JPG" style = "width:70%">  
+-->
 
 ## About me
 Academically, I have a keen interest in mathematical physics as well as pure mathematics. I am also fascinated by the history of science and scientists and love reading about the same in my spare time. Additionally, I am very interested in science communication and science education.
